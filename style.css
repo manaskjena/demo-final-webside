@@ -604,3 +604,9 @@ width: 150px;
 }
 
 }
+@media screen and (max-width:430px)
+{
+.progressbar{
+    width: 350px;
+}
+}
